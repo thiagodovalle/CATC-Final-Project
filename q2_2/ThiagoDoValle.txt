@@ -1,0 +1,29 @@
+Q2.2 Starred Commands Output
+Genrated on: Thu Dec 18 12:49:10 UTC 2025
+-----------------------------
+Hostname:
+ThiagoDoValleCATC
+Current User:
+thiagodovalle
+
+Q2.2 Starred Commands Output
+Genrated on: Thu Dec 18 12:49:49 UTC 2025
+-----------------------------
+Hostname:
+ThiagoDoValleCATC
+
+Current User:
+thiagodovalle
+
+Q2.2 Starred Commands Output
+Genrated on: Sun Dec 28 15:11:42 UTC 2025
+-----------------------------
+Hostname:
+ThiagoDoValleCATC
+
+Current User:
+thiagodovalle
+
+Architecture:
+x86_64
+
